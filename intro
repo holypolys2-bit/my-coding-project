@@ -1,0 +1,10 @@
+A coin collecting game I made in Roblox Studio. You run around picking up coins, earn money, and spend it in the shops.
+Its simple but does what its supposed to.
+- CoinCollector: spawns the coins
+- CoinBag: a bag that falls out of the sky and gives coins
+- CoinTornado: coin tornado
+- SpeedShop: buy speed upgrades
+- PetShop: buy pets
+- RandomEvents: random events that happen while you play
+- DayCycle: the day and night cycle
+- LeaderBoard: shows player stats
